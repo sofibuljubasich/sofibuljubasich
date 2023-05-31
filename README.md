@@ -35,7 +35,7 @@ Exploring new technologies and developing software solutions and quick hacks.
 
 - :floppy_disk: &nbsp; SQL | MySQL | PostgreSQL | SQLite 
 
-- :bar_chart: &nbsp; Pandas | Numpy | Sklearn | TensorFlow
+- :bar_chart: &nbsp; Pandas | Numpy | Sklearn | ML
 
 - 🔧 &nbsp; Docker 🐳 | Git
 
