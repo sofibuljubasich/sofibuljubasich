@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🎓 &nbsp; I´m a systems engineering student.
-Exploring new technologies and developing software solutions and quick hacks.
+
 
 - :bulb: &nbsp; Currently working on personal projects.
 
