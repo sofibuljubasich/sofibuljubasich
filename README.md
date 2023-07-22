@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-- 🎓 &nbsp; I´m a systems engineering student.
+- 🎓 &nbsp; I am a systems engineering student.
 
 
 - :bulb: &nbsp; Currently working on personal projects.
