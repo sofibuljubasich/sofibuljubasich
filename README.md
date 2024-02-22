@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - :bulb: &nbsp; Currently working on personal projects.
 
-- 🌱 &nbsp; Learning about Data Engineering, Machine Learning and Cybersecurity.
+- 🌱 &nbsp; Learning about Data Engineering
 
 
 
